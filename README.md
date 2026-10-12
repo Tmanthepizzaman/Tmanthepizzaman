@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tmanthepizzaman
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning simple machine learning models
-- 💞️ I’m looking to collaborate on broader term artificial intelligence models for everyday use
+- Young researcher interested in transformers and machine learning, as well as their application to the real world
+- Currently working on a personal project related!!
 
 <!---
 Tmanthepizzaman/Tmanthepizzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
